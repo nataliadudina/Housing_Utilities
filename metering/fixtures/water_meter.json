@@ -1,0 +1,152 @@
+[
+  {
+    "model": "metering.watermeter",
+    "pk": 1,
+    "fields": {
+      "house": 1,
+      "apartment": 1,
+      "current_reading": 125,
+      "previous_reading": 100
+    }
+  },
+  {
+    "model": "metering.watermeter",
+    "pk": 2,
+    "fields": {
+      "house": 1,
+      "apartment": 2,
+      "current_reading": 150,
+      "previous_reading": 125
+    }
+  },
+  {
+    "model": "metering.watermeter",
+    "pk": 3,
+    "fields": {
+      "house": 1,
+      "apartment": 3,
+      "current_reading": 175,
+      "previous_reading": 150
+    }
+  },
+  {
+    "model": "metering.watermeter",
+    "pk": 4,
+    "fields": {
+      "house": 1,
+      "apartment": 4,
+      "current_reading": 200,
+      "previous_reading": 175
+    }
+  },
+  {
+    "model": "metering.watermeter",
+    "pk": 5,
+    "fields": {
+      "house": 1,
+      "apartment": 5,
+      "current_reading": 225,
+      "previous_reading": 200
+    }
+  },
+  {
+    "model": "metering.watermeter",
+    "pk": 6,
+    "fields": {
+      "house": 1,
+      "apartment": 6,
+      "current_reading": 250,
+      "previous_reading": 225
+    }
+  },
+  {
+    "model": "metering.watermeter",
+    "pk": 7,
+    "fields": {
+      "house": 1,
+      "apartment": 7,
+      "current_reading": 275,
+      "previous_reading": 250
+    }
+  },
+  {
+    "model": "metering.watermeter",
+    "pk": 8,
+    "fields": {
+      "house": 1,
+      "apartment": 8,
+      "current_reading": 300,
+      "previous_reading": 275
+    }
+  },
+  {
+    "model": "metering.watermeter",
+    "pk": 9,
+    "fields": {
+      "house": 2,
+      "apartment": 9,
+      "current_reading": 325,
+      "previous_reading": 300
+    }
+  },
+  {
+    "model": "metering.watermeter",
+    "pk": 10,
+    "fields": {
+      "house": 2,
+      "apartment": 10,
+      "current_reading": 350,
+      "previous_reading": 325
+    }
+  },
+  {
+    "model": "metering.watermeter",
+    "pk": 11,
+    "fields": {
+      "house": 2,
+      "apartment": 11,
+      "current_reading": 375,
+      "previous_reading": 350
+    }
+  },
+  {
+    "model": "metering.watermeter",
+    "pk": 12,
+    "fields": {
+      "house": 2,
+      "apartment": 12,
+      "current_reading": 400,
+      "previous_reading": 375
+    }
+  },
+  {
+    "model": "metering.watermeter",
+    "pk": 13,
+    "fields": {
+      "house": 2,
+      "apartment": 13,
+      "current_reading": 425,
+      "previous_reading": 400
+    }
+  },
+  {
+    "model": "metering.watermeter",
+    "pk": 14,
+    "fields": {
+      "house": 2,
+      "apartment": 14,
+      "current_reading": 450,
+      "previous_reading": 425
+    }
+  },
+  {
+    "model": "metering.watermeter",
+    "pk": 15,
+    "fields": {
+      "house": 2,
+      "apartment": 15,
+      "current_reading": 475,
+      "previous_reading": 450
+    }
+  }
+]
