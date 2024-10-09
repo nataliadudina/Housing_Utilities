@@ -44,4 +44,3 @@ class WaterMeterDetailAPIView(generics.RetrieveUpdateDestroyAPIView):
     """
     queryset = WaterMeter.objects.all()
     serializer_class = WaterMeterSerializer
-    serializer_class = WaterMeterSerializer
