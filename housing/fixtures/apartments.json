@@ -1,0 +1,167 @@
+[
+  {
+    "model": "housing.apartment",
+    "pk": 1,
+    "fields": {
+      "house": 1,
+      "number": 101,
+      "area": 45.0,
+      "owner": "Иван Иванов",
+      "monthly_payment": 0.00
+    }
+  },
+  {
+    "model": "housing.apartment",
+    "pk": 2,
+    "fields": {
+      "house": 1,
+      "number": 102,
+      "area": 35.0,
+      "owner": "Мария Петрова",
+      "monthly_payment": 0.00
+    }
+  },
+  {
+    "model": "housing.apartment",
+    "pk": 3,
+    "fields": {
+      "house": 1,
+      "number": 103,
+      "area": 60.0,
+      "owner": "Пётр Сидоров",
+      "monthly_payment": 0.00
+    }
+  },
+  {
+    "model": "housing.apartment",
+    "pk": 4,
+    "fields": {
+      "house": 1,
+      "number": 104,
+      "area": 40.0,
+      "owner": "Анна Кузнецова",
+      "monthly_payment": 0.00
+    }
+  },
+  {
+    "model": "housing.apartment",
+    "pk": 5,
+    "fields": {
+      "house": 1,
+      "number": 105,
+      "area": 55.0,
+      "owner": "Виктор Васильев",
+      "monthly_payment": 0.00
+    }
+  },
+  {
+    "model": "housing.apartment",
+    "pk": 6,
+    "fields": {
+      "house": 1,
+      "number": 106,
+      "area": 48.0,
+      "owner": "Елена Соколова",
+      "monthly_payment": 0.00
+    }
+  },
+  {
+    "model": "housing.apartment",
+    "pk": 7,
+    "fields": {
+      "house": 1,
+      "number": 107,
+      "area": 52.0,
+      "owner": "Николай Калинин",
+      "monthly_payment": 0.00
+    }
+  },
+  {
+    "model": "housing.apartment",
+    "pk": 8,
+    "fields": {
+      "house": 1,
+      "number": 108,
+      "area": 58.0,
+      "owner": "Ольга Рябкова",
+      "monthly_payment": 0.00
+    }
+  },
+  {
+    "model": "housing.apartment",
+    "pk": 9,
+    "fields": {
+      "house": 2,
+      "number": 201,
+      "area": 42.0,
+      "owner": "Александр Тихонов",
+      "monthly_payment": 0.00
+    }
+  },
+  {
+    "model": "housing.apartment",
+    "pk": 10,
+    "fields": {
+      "house": 2,
+      "number": 202,
+      "area": 38.0,
+      "owner": "Наталья Николаева",
+      "monthly_payment": 0.00
+    }
+  },
+  {
+    "model": "housing.apartment",
+    "pk": 11,
+    "fields": {
+      "house": 2,
+      "number": 203,
+      "area": 65.0,
+      "owner": "Сергей Филиппов",
+      "monthly_payment": 0.00
+    }
+  },
+  {
+    "model": "housing.apartment",
+    "pk": 12,
+    "fields": {
+      "house": 2,
+      "number": 204,
+      "area": 47.0,
+      "owner": "Лариса Гусева",
+      "monthly_payment": 0.00
+    }
+  },
+  {
+    "model": "housing.apartment",
+    "pk": 13,
+    "fields": {
+      "house": 2,
+      "number": 205,
+      "area": 53.0,
+      "owner": "Валентина Савельева",
+      "monthly_payment": 0.00
+    }
+  },
+  {
+    "model": "housing.apartment",
+    "pk": 14,
+    "fields": {
+      "house": 2,
+      "number": 206,
+      "area": 41.0,
+      "owner": "Геннадий Игнатьев",
+      "monthly_payment": 0.00
+    }
+  },
+  {
+    "model": "housing.apartment",
+    "pk": 15,
+    "fields": {
+      "house": 2,
+      "number": 207,
+      "area": 59.0,
+      "owner": "Татьяна Беляева",
+      "monthly_payment": 0.00
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "model": "housing.house",
+    "pk": 1,
+    "fields": {
+      "street": "ул. Ленина",
+      "building": 1
+    }
+  },
+  {
+    "model": "housing.house",
+    "pk": 2,
+    "fields": {
+      "street": "ул. Кирова",
+      "building": 2
+    }
+  }
+]

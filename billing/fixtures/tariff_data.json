@@ -1,0 +1,137 @@
+[
+  {
+    "model": "billing.tariff",
+    "pk": 1,
+    "fields": {
+      "apartment": 1,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  },
+  {
+    "model": "billing.tariff",
+    "pk": 2,
+    "fields": {
+      "apartment": 2,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  },
+  {
+    "model": "billing.tariff",
+    "pk": 3,
+    "fields": {
+      "apartment": 3,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  },
+  {
+    "model": "billing.tariff",
+    "pk": 4,
+    "fields": {
+      "apartment": 4,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  },
+  {
+    "model": "billing.tariff",
+    "pk": 5,
+    "fields": {
+      "apartment": 5,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  },
+  {
+    "model": "billing.tariff",
+    "pk": 6,
+    "fields": {
+      "apartment": 6,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  },
+  {
+    "model": "billing.tariff",
+    "pk": 7,
+    "fields": {
+      "apartment": 7,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  },
+  {
+    "model": "billing.tariff",
+    "pk": 8,
+    "fields": {
+      "apartment": 8,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  },
+  {
+    "model": "billing.tariff",
+    "pk": 9,
+    "fields": {
+      "apartment": 9,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  },
+  {
+    "model": "billing.tariff",
+    "pk": 10,
+    "fields": {
+      "apartment": 10,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  },
+  {
+    "model": "billing.tariff",
+    "pk": 11,
+    "fields": {
+      "apartment": 11,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  },
+  {
+    "model": "billing.tariff",
+    "pk": 12,
+    "fields": {
+      "apartment": 12,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  },
+  {
+    "model": "billing.tariff",
+    "pk": 13,
+    "fields": {
+      "apartment": 13,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  },
+  {
+    "model": "billing.tariff",
+    "pk": 14,
+    "fields": {
+      "apartment": 14,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  },
+  {
+    "model": "billing.tariff",
+    "pk": 15,
+    "fields": {
+      "apartment": 15,
+      "water_tariff": 50.00,
+      "common_property_maintenance_tariff": 200.00
+    }
+  }
+]
